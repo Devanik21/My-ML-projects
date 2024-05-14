@@ -59,7 +59,7 @@ To get started with any of these projects, follow these steps:
 Clone the repository:
 sh
 Copy code
-git clone https://github.com/Devanik21/ML-Marvels.git
+git clone https://github.com/Devanik21/My-ML-projects.git
 Navigate to the project directory:
 sh
 Copy code
