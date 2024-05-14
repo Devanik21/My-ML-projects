@@ -1,0 +1,42 @@
+
+Body,DensitySI,RadiusSI,Cluster,Category
+Mercury,5430,2440.00,0,Terrestrial planet
+Venus,5200,6052.00,0,Terrestrial planet
+Earth,5510,6371.00,0,Terrestrial planet
+Moon,3340,1738.00,0,Terrestrial planet
+Mars,3930,3390.00,0,Terrestrial planet
+Phobos,1900,11.10,1,Asteroid/comet
+Deimos,1760,6.20,1,Asteroid/comet
+Jupiter,1330,69910.00,3,Giant planet
+Io,3530,1821.00,0,Terrestrial planet
+Europa,2990,1565.00,0,Terrestrial planet
+Ganymede,1940,2634.00,0,Terrestrial planet
+Callisto,1850,2403.00,0,Terrestrial planet
+Saturn,690,58230.00,3,Giant planet
+Mimas,1140,199.00,2,Icy moon
+Enceladus,1610,249.00,2,Icy moon
+Tethys,1000,530.00,2,Icy moon
+Dione,1440,560.00,2,Icy moon
+Rhea,1240,764.00,2,Icy moon
+Titan,1880,2575.00,0,Terrestrial planet
+Iapetus,1020,718.00,2,Icy moon
+Uranus,1320,25360.00,3,Giant planet
+Miranda,1200,236.00,2,Icy moon
+Ariel,1700,579.00,2,Icy moon
+Umbriel,1400,585.00,2,Icy moon
+Titania,1710,789.00,2,Icy moon
+Oberon,1630,761.00,2,Icy moon
+Neptune,1640,24620.00,3,Giant planet
+Proteus,1200,209.00,2,Icy moon
+Triton,2050,1353.00,0,Terrestrial planet
+Nereid,1200,170.00,2,Icy moon
+Pluto,2100,1137.00,0,Terrestrial planet
+Charon,2200,586.00,2,Icy moon
+Gaspra,2500,6.10,1,Asteroid/comet
+Ida,2600,15.80,1,Asteroid/comet
+Mathilde,1300,26.40,1,Asteroid/comet
+Eros,2670,9.69,1,Asteroid/comet
+Itokawa,1900,0.32,1,Asteroid/comet
+Lutetia,5500,50.00,1,Asteroid/comet
+Vesta,3456,263.00,2,Icy moon
+Ceres,2161,473.00,2,Icy moon
